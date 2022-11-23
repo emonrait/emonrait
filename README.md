@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Facebook Badge"/>
   </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=emonrait@gmail.com" target="_blank"">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Facebook Badge"/>
   </a>
  
 </div>

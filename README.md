@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://1.bp.blogspot.com/-lBVZsV0Q68w/XZ9r_8pasEI/AAAAAAAAe-A/Y12PrSDspn85qT_QlLIIfdOLY9EfmlPUQCLcBGAsYHQ/s1600/DSC_0563.JPG" width="100"/>
-<div id="badges" >
+
+  <div id="badges" >
   <a href="https://www.linkedin.com/in/emonraihanm/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -22,7 +23,6 @@
 </div>
 
 
-
 Hi, I'm Raihan Mahamud, a self-taught passionate Mobile Apps developer from Bangladesh, currently working at Era InfoTech Ltd. as a Software engineer(Mobile Apps). I've been building a mobile apps when i am 12th standard, I've made countless side projects and I also posses magical powers of to build delightful Mobile Application.
 
 I also love doing open source development, I actively maintain various notable open source projects with successfully/ It gives me a wonderful feeling of achievement and joy which I cannot explain in words.
@@ -33,6 +33,8 @@ I also love doing open source development, I actively maintain various notable o
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emonrait&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+![Raihan Mahamud StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12927452)
 
 ---
 <p align="center"> © 2023 Emon Raihan, all rights reserved. Made with ❤️ for a better future. </p>

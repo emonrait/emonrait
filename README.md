@@ -1,4 +1,6 @@
-### Hi there i am Emon Raihan 👋
+Hi, I'm Raihan Mahamud, a self-taught passionate Mobile Apps developer from Bangladesh, currently working at Era InfoTech Ltd. as a Software engineer(Mobile Apps). I've been building a mobile apps when i am 12th standard, I've made countless side projects and I also posses magical powers of to build delightful Mobile Application.
+
+I also love doing open source development, I actively maintain various notable open source projects with successfully/ It gives me a wonderful feeling of achievement and joy which I cannot explain in words.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=emonrait&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonrait&layout=compact" />

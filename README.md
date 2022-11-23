@@ -29,7 +29,11 @@ I also love doing open source development, I actively maintain various notable o
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=emonrait&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonrait&layout=compact" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonrait&layout=compact&theme=cobalt&hide_border=true" />
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emonrait&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
 
 
 

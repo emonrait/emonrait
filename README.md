@@ -27,7 +27,7 @@ Hi, I'm Raihan Mahamud, a self-taught passionate Mobile Apps developer from Bang
 
 I also love doing open source development, I actively maintain various notable open source projects with successfully/ It gives me a wonderful feeling of achievement and joy which I cannot explain in words.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=emonrait&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonrait&layout=compact&theme=cobalt&hide_border=true" />
 

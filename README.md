@@ -21,11 +21,15 @@
   <img src="https://komarev.com/ghpvc/?username=emonrait&style=flat-square&color=blue" alt=""/>
 </div>
 
-Hi, I'm Raihan Mahamud, a self-taught passionate Mobile Apps developer from Bangladesh, currently working as a Sr. Software engineer (Mobile Apps) at City Bank PLC. I've been building mobile apps since I was in 12th standard. I've made countless side projects and possess magical powers to build delightful Mobile Applications.
+---
 
-I also love doing open source development. I actively maintain various notable open source projects successfully. It gives me a wonderful feeling of achievement and joy which I cannot explain in words.
+### Hi, I'm Raihan Mahamud 👋
 
-### List of Some Mobile Applications
+I'm a self-taught passionate Mobile Apps developer from Bangladesh, currently working as a Sr. Software engineer (Mobile Apps) at City Bank PLC. I've been building mobile apps since I was in the 12th standard. I've made countless side projects and possess magical powers to build delightful Mobile Applications.
+
+I also love doing open source development. I actively maintain various notable open source projects. It gives me a wonderful feeling of achievement and joy which I cannot explain in words.
+
+### List of Some Mobile Applications 📱
 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
     <tr>
@@ -60,12 +64,16 @@ I also love doing open source development. I actively maintain various notable o
     </tr>
 </table>
 
+---
+
+### GitHub Stats 📊
+
 <div align="center">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=emonrait&show_icons=true&theme=radical&hide_border=true" />
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonrait&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
+<div align="center" style="clear: both;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=emonrait&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 </div>
 

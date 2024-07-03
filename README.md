@@ -51,33 +51,33 @@ I also love doing open source development. I actively maintain various notable o
 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
     <tr>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff; transition: background-color 0.3s;">
-            <strong>Bank Asia Smart App</strong>
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff; transition: background-color 0.3s; color: #007BFF;">
+            <i class="fas fa-mobile-alt"></i> <strong>Bank Asia Smart App</strong>
         </td>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s;">
-            <strong>Bank Asia Micro Merchant App</strong>
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s; color: #28A745;">
+            <i class="fas fa-mobile-alt"></i> <strong>Bank Asia Micro Merchant App</strong>
         </td>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #fff3e6; transition: background-color 0.3s;">
-            <strong>BDBL Digital Banking</strong>
-        </td>
-    </tr>
-    <tr>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff; transition: background-color 0.3s;">
-            <strong>BCB e-Cash</strong>
-        </td>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s;">
-            <strong>City Agent Banking</strong>
-        </td>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #fff3e6; transition: background-color 0.3s;">
-            <strong>City Bank Live</strong>
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #fff3e6; transition: background-color 0.3s; color: #FFC107;">
+            <i class="fas fa-mobile-alt"></i> <strong>BDBL Digital Banking</strong>
         </td>
     </tr>
     <tr>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff; transition: background-color 0.3s;">
-            <strong>City Point</strong>
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff; transition: background-color 0.3s; color: #007BFF;">
+            <i class="fas fa-mobile-alt"></i> <strong>BCB e-Cash</strong>
         </td>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s;">
-            <strong>SBL e-Kyc</strong>
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s; color: #28A745;">
+            <i class="fas fa-mobile-alt"></i> <strong>City Agent Banking</strong>
+        </td>
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #fff3e6; transition: background-color 0.3s; color: #FFC107;">
+            <i class="fas fa-mobile-alt"></i> <strong>City Bank Live</strong>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff; transition: background-color 0.3s; color: #007BFF;">
+            <i class="fas fa-mobile-alt"></i> <strong>City Point</strong>
+        </td>
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s; color: #28A745;">
+            <i class="fas fa-mobile-alt"></i> <strong>SBL e-Kyc</strong>
         </td>
     </tr>
 </table>
@@ -103,3 +103,21 @@ I also love doing open source development. I actively maintain various notable o
 <p align="center">
   <a href="https://www.emonraihan.blogspot.com" target="_blank">https://www.emonraihan.blogspot.com</a>
 </p>
+
+<!-- Add Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+<!--
+**emonrait/emonrait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

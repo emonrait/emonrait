@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=emonrait&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=emonrait&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
@@ -31,11 +31,21 @@ I also love doing open source development. I actively maintain various notable o
 
 ### Skills
 
-- **Programming Languages:** Java, Kotlin, Swift, PL/SQL, Dart
-- **Frameworks & Libraries:** Flutter
-- **Platforms:** Android, iOS
-- **Databases:** MySQL, Oracle, PostgreSQL, Firebase
-- **Tools & Technologies:** JasperReports
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/PLSQL-FF5733?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/JasperReports-007396?style=for-the-badge&logo=jasperreports&logoColor=white" alt="JasperReports"/>
+</div>
 
 ### List of Some Mobile Applications 📱
 
@@ -82,7 +92,7 @@ I also love doing open source development. I actively maintain various notable o
 </div>
 
 <div align="center" style="clear: both;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=emonrait&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=emonrait&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ![Raihan Mahamud StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12927452)

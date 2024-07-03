@@ -29,6 +29,14 @@ I'm a self-taught passionate Mobile Apps developer from Bangladesh, currently wo
 
 I also love doing open source development. I actively maintain various notable open source projects. It gives me a wonderful feeling of achievement and joy which I cannot explain in words.
 
+### Skills
+
+- **Programming Languages:** Java, Kotlin, Swift, PL/SQL, Dart
+- **Frameworks & Libraries:** Flutter
+- **Platforms:** Android, iOS
+- **Databases:** MySQL, Oracle, PostgreSQL, Firebase
+- **Tools & Technologies:** JasperReports
+
 ### List of Some Mobile Applications 📱
 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">

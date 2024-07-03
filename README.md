@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://1.bp.blogspot.com/-lBVZsV0Q68w/XZ9r_8pasEI/AAAAAAAAe-A/Y12PrSDspn85qT_QlLIIfdOLY9EfmlPUQCLcBGAsYHQ/s1600/DSC_0563.JPG" width="100"/>
+  <img src="https://1.bp.blogspot.com/-lBVZsV0Q68w/XZ9r_8pasEI/AAAAAAAAe-A/Y12PrSDspn85qT_QlLIIfdOLY9EfmlPUQCLcBGAsYHQ/s1600/DSC_0563.JPG" width="100" style="border-radius: 50%;" />
 
-  <div id="badges">
+  <div id="badges" style="margin: 20px;">
     <a href="https://www.linkedin.com/in/emonraihanm/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -51,32 +51,32 @@ I also love doing open source development. I actively maintain various notable o
 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
     <tr>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff;">
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff; transition: background-color 0.3s;">
             <strong>Bank Asia Smart App</strong>
         </td>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6;">
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s;">
             <strong>Bank Asia Micro Merchant App</strong>
         </td>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #fff3e6;">
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #fff3e6; transition: background-color 0.3s;">
             <strong>BDBL Digital Banking</strong>
         </td>
     </tr>
     <tr>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff;">
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff; transition: background-color 0.3s;">
             <strong>BCB e-Cash</strong>
         </td>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6;">
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s;">
             <strong>City Agent Banking</strong>
         </td>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #fff3e6;">
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #fff3e6; transition: background-color 0.3s;">
             <strong>City Bank Live</strong>
         </td>
     </tr>
     <tr>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff;">
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6f7ff; transition: background-color 0.3s;">
             <strong>City Point</strong>
         </td>
-        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6;">
+        <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s;">
             <strong>SBL e-Kyc</strong>
         </td>
     </tr>
@@ -91,7 +91,7 @@ I also love doing open source development. I actively maintain various notable o
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonrait&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<div align="center" style="clear: both;">
+<div align="center" style="clear: both; padding-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=emonrait&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 

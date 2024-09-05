@@ -105,7 +105,7 @@ I also love doing open-source development. I actively maintain various notable o
 
 <p align="center"> © 2024 Emon Raihan, all rights reserved. Made with ❤️ for a better future. </p>
 <p align="center">
-  <a href="https://www.emonraihan.blogspot.com" target="_blank">https://www.emonraihan.blogspot.com</a>
+  <a href="https://emonraihan.blogspot.com/" target="_blank">https://www.emonraihan.blogspot.com</a>
 </p>
 
 <!-- Add Font Awesome CDN -->

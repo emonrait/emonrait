@@ -79,6 +79,9 @@ I also love doing open-source development. I actively maintain various notable o
         <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s; color: #28A745;">
             <i class="fab fa-android"></i> <strong>SBL e-Kyc</strong>
         </td>
+      <td style="padding: 20px; border: 1px solid #ddd; background-color: #e6ffe6; transition: background-color 0.3s; color: #28A745;">
+            <i class="fab fa-android"></i> <strong>City Engage</strong>
+        </td>
     </tr>
 </table>
 
